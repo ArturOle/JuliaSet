@@ -3,5 +3,6 @@
 Julia set with Julia programming lenguage.
 
 Examples:
-!(Fractals)[https://github.com/ArturOle/JuliaSet/blob/master/Saved/GrayBois.png?raw=true]
-!(Fractals1)[https://github.com/ArturOle/JuliaSet/blob/master/Saved/Virus.png?raw=true]
+
+!(Fractals)[Saved/Virus.png]
+!(Fractals1)[https://github.com/ArturOle/JuliaSet/blob/676eacbb01e9adf85afcf33b09a7d300d5b9c4e1/Saved/Virus.png]
